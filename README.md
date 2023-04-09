@@ -1,5 +1,32 @@
+
+
+# Install SageMath for cryptanalysis on Fedora 64bit(10GB) Cloud Virtual Server
+
+---
+
+
+---
+
+
+
+
+
 		
 <figure class="wp-block-image"><img decoding="async" src="./Install SageMath for cryptanalysis on Fedora 64bit 10GB Cloud Virtual Server - CRYPTO DEEP TECH_files/036-1024x576.png" alt="Install SageMath for cryptanalysis on Fedora 64bit(10GB) cloud virtual server" class="wp-image-2577"></figure>
+
+
+
+---
+
+
+* Tutorial: https://youtu.be/xHnTDRgZwvE
+* Tutorial: https://cryptodeeptech.ru/install-sagemath-on-fedora
+
+
+---
+
+
+
 
 
 
